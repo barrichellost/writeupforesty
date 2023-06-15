@@ -4,3 +4,5 @@ CTF dirancang untuk menguji dan meningkatkan keterampilan keamanan informasi ser
 
 contoh ctf yang sudah saya kerjakan yaitu  "ForestyHC{welcome_to_hacker_class_foresty_596e77}" terdiri dari string {welcome_to_hacker_class_foresty_596e77}
 
+// maaf jika ada salah kak, saya pemula
+
